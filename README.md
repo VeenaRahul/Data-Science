@@ -1,4 +1,6 @@
-🧠 **Oral Cancer Prediction - Data Analysis Project**
+**Data Analysis and Machine Learning Project**
+
+1. 🧠 **Oral Cancer Prediction - Data Analysis Project**
 
 📌 **Overview**
 This project focuses on data analysis for oral cancer prediction using patient medical and lifestyle data. The goal is to uncover patterns and correlations that contribute to early detection and understanding of risk factors associated with oral cancer.
@@ -35,7 +37,7 @@ The dataset was sourced from https://www.kaggle.com/datasets/zaidpy/oral-cancer-
 
 
 
-**Heart Disease Prediction – Machine Learning Project**
+2. **Heart Disease Prediction – Machine Learning Project**
 
 📌 **Overview**
 This project uses machine learning algorithms to predict the presence of heart disease in patients based on key medical attributes. The aim is to build a reliable model that can assist in early diagnosis and prevention strategies.
