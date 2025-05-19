@@ -1,59 +1,34 @@
-🧠 Oral Cancer Prediction – Data Analysis
-📌 Overview
+🧠 Data Analysis of **Oral Cancer Prediction**
+
+📌 **Overview**
 This project focuses on data analysis for oral cancer prediction using patient medical and lifestyle data. The goal is to uncover patterns and correlations that contribute to early detection and understanding of risk factors associated with oral cancer.
 
-🧪 Tools & Technologies
+🧪 **Tools & Technologies**
 Python (Pandas, NumPy, Matplotlib, Seaborn)
-
 Jupyter Notebook
+Scipy (for hypothesis testing)
+CSV (for data storage and manipulation)
 
-Scikit-learn (for optional modeling)
-
-CSV / Excel (for data storage and manipulation)
-
-🔍 Key Steps Performed
+🔍** Key Steps Performed**
 Data Cleaning & Preprocessing
-
 Handled missing values, outliers, and encoded categorical data.
-
 Exploratory Data Analysis (EDA)
-
 Analyzed key variables such as age, tobacco usage, alcohol consumption, etc.
-
 Visualized data distributions and correlations.
-
 Risk Factor Identification
-
 Identified features most associated with oral cancer presence.
-
 Used correlation heatmaps and group comparisons.
 
-(Optional) Predictive Modeling
+📊 **Sample Visuals**
+Age-wise, Gender-wise, Country-wise cancer risk distribution
+Analysis of cancer symptoms
+Analysis of survival rate, tumor size, treatment type according to cancer stage
 
-Basic classification using Logistic Regression or Decision Tree (if applied).
-
-Model evaluation using accuracy, precision, recall.
-
-📊 Sample Visuals
-Age-wise cancer risk distribution
-
-Tobacco/alcohol usage vs. cancer diagnosis
-
-Heatmap of feature correlations
-
-✅ Outcomes
+✅ **Outcomes**
 Identified lifestyle patterns associated with higher oral cancer risk.
-
 Demonstrated importance of early screening based on key indicators.
 
-🚀 Future Work
-Integrate more advanced machine learning models.
 
-Include data from different demographic regions.
+📎 **Dataset**
 
-Build a dashboard for interactive data exploration.
-
-📎 Dataset
-Include source if public. Example:
-
-The dataset was sourced from [XYZ Research Institute] or [Kaggle link if available].
+The dataset was sourced from https://www.kaggle.com/datasets/zaidpy/oral-cancer-dataset .
