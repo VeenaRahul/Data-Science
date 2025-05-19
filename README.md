@@ -1,5 +1,7 @@
 **Data Analysis and Machine Learning Project**
 
+
+
 1. 🧠 **Oral Cancer Prediction - Data Analysis Project**
 
 📌 **Overview**
@@ -30,9 +32,7 @@ Analysis of survival rate, tumor size, treatment type according to cancer stage
 Identified lifestyle patterns associated with higher oral cancer risk.
 Demonstrated importance of early screening based on key indicators.
 
-
 📎 **Dataset**
-
 The dataset was sourced from https://www.kaggle.com/datasets/zaidpy/oral-cancer-dataset .
 
 
@@ -53,7 +53,6 @@ Jupyter Notebook
 
 📊 **Dataset**
 Source: Kaggle Heart Disease Dataset - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset 
-
 Attributes: age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, ECG results, max heart rate, etc.
 
 🔍 **Key Steps Performed**
