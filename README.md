@@ -9,7 +9,7 @@ Jupyter Notebook
 Scipy (for hypothesis testing)
 CSV (for data storage and manipulation)
 
-🔍** Key Steps Performed**
+🔍 **Key Steps Performed**
 Data Cleaning & Preprocessing
 Handled missing values, outliers, and encoded categorical data.
 Exploratory Data Analysis (EDA)
